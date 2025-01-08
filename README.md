@@ -3,7 +3,7 @@
 ### **Introduction**  
 Netflix is one of the most popular streaming platforms, offering a wide array of movies and TV shows globally. Since its inception in 1997, Netflix has grown exponentially, delivering quality content that captivates millions of viewers. This project delves into an exploratory data analysis of Netflix's vast content library, providing insights and visualizations about its movies and TV shows.
 
-**View the Project Here**: https://github.com/AkshayS80/Netflix_Data_Visualisation/blob/main/netflix-data-visualisation.ipynb
+[View the Project Here](https://github.com/AkshayS80/Netflix_Data_Visualisation/blob/main/netflix-data-visualisation.ipynb)
 
 ### **Project Features**  
 
